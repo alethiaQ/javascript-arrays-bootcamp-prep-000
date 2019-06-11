@@ -44,6 +44,3 @@ function removeElementFromEndOfArray(chocolateBars){
 }
 
 
-
-
-
